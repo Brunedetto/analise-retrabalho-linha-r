@@ -2,7 +2,16 @@
 # 📊 Análise de Retrabalho – Linha R
 
 ## 📌 Objetivo
-Projeto de análise de dados inspirado em contexto real de linha produtiva, com foco na mensuração e simulação do impacto financeiro de retrabalho.
+Projeto de análise de dados aplicado a contexto produtivo, com foco na modelagem do impacto financeiro do retrabalho e simulação de cenários de melhoria operacional.
+
+---
+
+## 📂 Estrutura do Projeto
+
+- analise_retrabalho.py → Geração e tratamento da base simulada
+- analise_retrabalho_linha_R.csv → Base de dados mensal
+- Dashboard desenvolvido no Power BI
+- README.md → Documentação do projeto
 
 ---
 
